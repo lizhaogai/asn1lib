@@ -41,6 +41,8 @@ class ASN1ObjectIdentifier extends ASN1Object {
     "certificationAuthority": "2.5.6.16",
     "groupOfUniqueNames": "2.5.6.17",
     "userSecurityInformation": "2.5.6.18",
+    "ecdsa": "1.2.840.10045.2.1",
+    "P256": "1.2.840.10045.3.1.7",
     "certificationAuthority-V2": "2.5.6.16.2",
     "cRLDistributionPoint": "2.5.6.19",
     "dmd": "2.5.6.20",
