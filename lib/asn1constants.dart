@@ -18,3 +18,5 @@ const int OBJECT_IDENTIFIER = 0x06;
 
 const int BOOLEAN_TRUE_VALUE = 0xff;
 const int BOOLEAN_FALSE_VALUE = 0x00;
+
+const int CONSTRUCTED_TYPE = 0xA1;
